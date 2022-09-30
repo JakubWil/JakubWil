@@ -1,7 +1,8 @@
-### Hi there 👋
+###Hey, I'm Jacob 👋
 
-<!--
-**JakubWil/JakubWil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm computer science student 📚 In the near future I wanna be Web3/Blockchian developer ⛓
+
+- I currently learning React and Node.js 
 
 Here are some ideas to get you started:
 
