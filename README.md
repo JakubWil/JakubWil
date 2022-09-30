@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">📚 I'm computer science student A future web3/blockchain developer ⛓</h3>
+<h3 align="center">📚 I'm computer science student</h3>
+
+- 🔭 I’m currently working on web3/blockchian skills ⛓
 
 - 🌱 I’m currently learning **React and Node.Js**
 
 - 👯 I’m looking to collaborate on **Web3 startups**
 
-- 👨‍💻 All of my projects are available at [my GitHub profile 😁](my GitHub profile 😁)
+- 👨‍💻 All of my projects are available at my GitHub profile 😁
 
 - 💬 Ask me about **anything**
 
