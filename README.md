@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on frontend and web3 skills ⛓
 
-- 🌱 I’m currently learning **React and Node.Js**
+- 🌱At present, I'm focusing on learning React and Node.js**
 
 <!-- - 👯 I’m looking to collaborate on **Web3 startups** -->
 
