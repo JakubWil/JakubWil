@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">📚 I'm computer science student</h3>
 
-- 🔭 I’m currently working on frontend and web3 skills ⛓
+- 🔭 I’m currently working on everything ⛓
 
-- 🌱At present, I'm focusing on learning React and Node.js**
+- 🌱At present, I'm focusing on learning everything**
 
 <!-- - 👯 I’m looking to collaborate on **Web3 startups** -->
 
